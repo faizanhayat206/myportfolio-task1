@@ -82,6 +82,7 @@ footer {
   height: 250px;
   width: 250px;
   border-radius: 50%;
+  margin-left: 20px;
 }
 #cards {
   display: flex;
